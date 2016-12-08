@@ -10,3 +10,5 @@ repo for git-scm book exercises
 * 20:27 - created issue00-dummy branch
 * 20:29 - created issue01-test branch
 * 20:32 - created issue01-test branch again
+* 20:29 - created issue02-test branch
+
