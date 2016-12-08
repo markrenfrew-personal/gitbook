@@ -7,3 +7,4 @@ repo for git-scm book exercises
 
 * 19:53 - started new repo. Restarting git book exercises.
 * 20:22 - created develop branch
+* 20:27 - created issue00-dummy branch
